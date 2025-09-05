@@ -3,3 +3,4 @@ It encrypts and decrypts the Text Assets inside Hollow Knight Silksong.
 
 # THIS DOESNT WORK!!!
 Most likely the encryption/decryption key have changed.
+Open an issue and i will check it out.
